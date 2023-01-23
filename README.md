@@ -34,6 +34,8 @@ Beskriv följande kommandon (vad de gör, hur de fungerar etcetera):
 2.1 - Skapa konto och repo med README-fil
 * Skapa README.md-fil med markdown
 * Ge en kort beskrivning av uppgiften/repositoriet (formatera med överskrifter, listor och så vidare)
+* Svara på frågan: Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
+ * Git pull
 
 Samt:
 
